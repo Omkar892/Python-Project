@@ -5,7 +5,6 @@ _____________Description____________
 This Project for a calculating a age duration in various time units 
 like Day, Months, Years, Hours, Minutes and Seconds . 
 We can Calculate the age duration in different time units one by one.
-This project are used .
 
 (a) class SurvivalDurationCalculator: This class is responsible for calculating the duration based on the person's age and time unit.
 
